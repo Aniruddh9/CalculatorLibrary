@@ -24,3 +24,7 @@ class TestCalculator:
     def test_division(self):
         assert 2 == calculator.division(10, 5)
 
+
+
+    def test_division(self):
+        assert 4 == calculator.dicision(12, 3)
