@@ -28,3 +28,4 @@ class TestCalculator:
 
     def test_division(self):
         assert 4 == calculator.dicision(12, 3)
+
